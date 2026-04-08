@@ -20,3 +20,11 @@ Sense Accuracy: 0.34
 Context Matching Score: 0.546
 
 These results demonstrate that transformer-based sentence embeddings effectively capture semantic similarity between clinical texts.
+## Workflow Diagram
+![Workflow](images/workflow.png)
+
+## Model Architecture
+![Architecture](images/architecture.png)
+
+## Model Evaluation
+![Evaluation](images/evaluation.png)
